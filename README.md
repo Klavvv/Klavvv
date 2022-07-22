@@ -12,7 +12,7 @@ Welcome to my page!
 
 ## 🔥 My latest projects 🔥
 :red_circle: [LightCalc+](https://github.com/Klavvv/LightCalc)<br>
-:red_circle: [Strategy Game](https://github.com/Klavvv/StrategyGame)<br>
+:red_circle: [A Więc Wojna (Strategy Game)](https://github.com/Klavvv/StrategyGame)<br>
 
 ## ⚡ Contact me ⚡
 E-mail: [rozenek.klaudiusz@gmail.com](mailto:rozenek.klaudiusz@gmail.com)
